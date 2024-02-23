@@ -17,3 +17,12 @@ vida = meses / 12
 anos = int(vida)
 print(vida)
 print(anos)
+
+#exemplos
+'teste'* 3
+3 == 3 and 2 == 2
+3 == 3 and 2 == 3
+3 == 3 or 2 == 3
+
+10/3
+10//3
